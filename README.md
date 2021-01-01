@@ -4,7 +4,7 @@ My notes for learning C#.
 
 ## Notes
 
-1. [Background](./C#_00_Background.md)
+1. [Background](./CSharp_00_Background.md)
 
 ## Notice
 
