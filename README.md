@@ -1,6 +1,6 @@
 # `C#` Notes
 
-My notes while learning C#.
+My notes for learning C#.
 
 ## Notes
 
